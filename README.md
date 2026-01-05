@@ -49,3 +49,9 @@ name|father|dob|cnic|voted
 - Migrate persistence to a lightweight embedded DB (e.g., SQLite) for robustness.
 
 If you want any of these, tell me which and I will implement them next.
+
+
+25SP-014-CS - BILAL AHMED MALIK
+25SP-013-CS - Syed Suleman Ali
+25SP-016-CS - Sheikh Muhammad Wadeed
+25SP-05$-CS - Rohail khalid
